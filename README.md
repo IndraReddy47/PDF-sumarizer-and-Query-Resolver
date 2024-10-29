@@ -1,0 +1,1 @@
+# PDF-sumarizer-and-Query-Resolver
